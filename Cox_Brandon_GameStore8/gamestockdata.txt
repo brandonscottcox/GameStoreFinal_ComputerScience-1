@@ -1,0 +1,60 @@
+Halo 5
+59.99
+0
+Shooter
+M
+Call of Duty
+52.99
+0
+Shooter
+M
+Battlefield
+49.99
+109
+Shooter
+M
+Guild Wars 2
+14.99
+72
+MMO
+M
+Frostpunk
+19.99
+111
+Strategy
+M
+Rust
+29.99
+80
+Survival
+M
+Skyrim
+9.99
+41
+Role Playing
+M
+Fallout 4
+34.99
+60
+Role playing
+M
+Minecraft
+10
+590
+Survival
+E
+Sims 4
+24.99
+40
+Simulator
+E
+New game
+60
+30
+FPS
+m
+THE GAME SUCKS
+1000
+1
+E
+E
